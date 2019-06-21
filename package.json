@@ -10,7 +10,9 @@
     "nodemon": "^1.18.11",
     "mongodb": "^3.2.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "webpack": "^4.30.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
